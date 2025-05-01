@@ -13,6 +13,11 @@ private:
 public:
     void inputData()
     {
+        cout << "Masukkan Alas Segitiga : ";
+        cin >> alas;
+
+        cout << "Masukkan Tinggi Segitiga : ";
+        cin >> tinggi;
     }
 };
 
