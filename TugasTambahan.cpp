@@ -33,4 +33,6 @@ public:
 
 int main()
 {
+    Segitiga segitiga;
+    segitiga.inputData();
 }
